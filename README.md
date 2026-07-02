@@ -10,6 +10,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,5 +27,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
