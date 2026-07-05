@@ -10,6 +10,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -36,6 +37,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
