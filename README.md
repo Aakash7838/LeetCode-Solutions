@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
