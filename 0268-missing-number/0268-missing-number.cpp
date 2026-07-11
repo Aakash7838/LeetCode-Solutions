@@ -1,19 +1,17 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-
         int n = nums.size();
-        int x = -1;
-        int y = -1;
+        int xorVal = 0;
 
         for(int i = 0; i <= n; i++){
-            x = x^i;
-        }
-        for(int i = 0; i < n; i++){
-            y = y^nums[i];
+            xorVal ^= i;
         }
 
-        return x^y;
-        
+        for(int i = 0; i < n; i++){
+            xorVal ^= nums[i];
+        }
+
+        return xorVal;
     }
 };
