@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
