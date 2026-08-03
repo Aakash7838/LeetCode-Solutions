@@ -23,6 +23,7 @@
 | [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -138,9 +140,11 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
