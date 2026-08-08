@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -105,6 +106,7 @@
 | [0141-linked-list-cycle](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
