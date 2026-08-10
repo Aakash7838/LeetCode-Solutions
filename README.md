@@ -26,6 +26,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -166,8 +167,10 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
