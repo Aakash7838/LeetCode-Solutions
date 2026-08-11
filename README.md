@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@
 | [0027-remove-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -166,6 +168,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 ## Simulation
