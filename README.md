@@ -27,6 +27,7 @@
 | [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -173,11 +174,13 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
