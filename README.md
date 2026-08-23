@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
@@ -162,6 +163,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -177,6 +179,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Matrix
 |  |
