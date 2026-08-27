@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
