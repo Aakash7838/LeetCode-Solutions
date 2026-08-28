@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -172,6 +174,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
