@@ -4,6 +4,7 @@ class MyCircularQueue {
     int backIdx;
     int size;
     int capacity;
+    
 public:
     MyCircularQueue(int k) {
         arr.resize(k);
@@ -14,30 +15,38 @@ public:
     }
     
     bool enQueue(int value) {
-        if(isFull()) return false;
+        if(isFull()){
+            return false;
+        }
 
-        backIdx = (backIdx + 1)% capacity;
+        backIdx = (backIdx + 1) % capacity;
         arr[backIdx] = value;
         size++;
         return true;
     }
     
     bool deQueue() {
-        if(isEmpty()) return false;
+        if(isEmpty()){
+            return false;
+        }
 
-        frontIdx = (frontIdx + 1) % capacity;
+        frontIdx = (frontIdx + 1)%capacity;
         size--;
-        return true; 
+        return true;
     }
     
     int Front() {
-        if(isEmpty()) return -1;
+        if(isEmpty()){
+            return -1;
+        }
 
         return arr[frontIdx];
     }
     
     int Rear() {
-        if(isEmpty()) return -1;
+        if(isEmpty()){
+            return -1;
+        }
 
         return arr[backIdx];
     }
@@ -47,7 +56,7 @@ public:
     }
     
     bool isFull() {
-       return size == capacity; 
+        return size == capacity;
     }
 };
 
