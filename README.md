@@ -64,6 +64,7 @@
 | [0141-linked-list-cycle](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -300,4 +303,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
