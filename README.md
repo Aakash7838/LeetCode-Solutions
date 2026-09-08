@@ -21,6 +21,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -126,6 +129,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
