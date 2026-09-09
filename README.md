@@ -20,6 +20,7 @@
 | [0027-remove-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -138,6 +139,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Linked List
