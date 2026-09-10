@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Linked List
