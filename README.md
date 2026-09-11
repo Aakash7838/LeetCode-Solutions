@@ -23,6 +23,7 @@
 | [0046-permutations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0212-word-search-ii) |
@@ -331,4 +333,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
