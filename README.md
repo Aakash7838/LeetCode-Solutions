@@ -84,6 +84,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -144,6 +145,7 @@
 | [0051-n-queens](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
