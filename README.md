@@ -53,6 +53,7 @@
 | [0739-daily-temperatures](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Two Pointers
@@ -244,6 +245,7 @@
 | [0289-game-of-life](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0994-rotting-oranges](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0994-rotting-oranges](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
