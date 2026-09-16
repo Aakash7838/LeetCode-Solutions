@@ -1,92 +1,74 @@
 class Trie {
-
-    // Har node ka structure
-    struct TrieNode {
-        TrieNode* children[26];  // a-z ke liye
-        bool isEnd;              // word yahan khatam?
+    struct TrieNode{
+        TrieNode* children[26];
+        bool isEnd;
 
         TrieNode(){
-            // Sab children null karo
             for(int i = 0; i < 26; i++){
-                children[i] = nullptr;
+                children[i] = NULL;
             }
             isEnd = false;
         }
     };
 
-    TrieNode* root;  // starting point
-
+    TrieNode* root;
 public:
-
-    Trie(){
-        root = new TrieNode();  // empty root
+    Trie() {
+        root = new TrieNode();
     }
-
-    // ━━━━━━━━━━━━━━━━━━━━━━
-    // INSERT
-    // ━━━━━━━━━━━━━━━━━━━━━━
+    
     void insert(string word) {
         TrieNode* curr = root;
 
-        for(int i = 0; i < (int)word.size(); i++){
-
-            // Character → index
+        for(int i = 0; i < word.size(); i++){
             int idx = word[i] - 'a';
 
-            // Agar child nahi hai → banao
-            if(curr->children[idx] == nullptr){
+            if(curr->children[idx] == NULL){
                 curr->children[idx] = new TrieNode();
             }
-
-            // Us child pe jao
+            
             curr = curr->children[idx];
         }
-
-        // Word khatam → mark karo
         curr->isEnd = true;
     }
-
-    // ━━━━━━━━━━━━━━━━━━━━━━
-    // SEARCH
-    // ━━━━━━━━━━━━━━━━━━━━━━
+    
     bool search(string word) {
         TrieNode* curr = root;
-
-        for(int i = 0; i < (int)word.size(); i++){
-
+        
+        for(int i = 0; i < word.size(); i++){
             int idx = word[i] - 'a';
 
-            // Character nahi mila → word nahi
-            if(curr->children[idx] == nullptr){
+            if(curr->children[idx] == NULL){
                 return false;
             }
 
             curr = curr->children[idx];
         }
 
-        // Word exist karta hai sirf jab isEnd true ho
         return curr->isEnd;
     }
-
-    // ━━━━━━━━━━━━━━━━━━━━━━
-    // STARTSWITH
-    // ━━━━━━━━━━━━━━━━━━━━━━
+    
     bool startsWith(string prefix) {
         TrieNode* curr = root;
 
-        for(int i = 0; i < (int)prefix.size(); i++){
-
+        for(int i = 0; i < prefix.size(); i++){
             int idx = prefix[i] - 'a';
 
-            // Prefix character nahi mila → false
-            if(curr->children[idx] == nullptr){
+            if(curr->children[idx] == NULL){
                 return false;
             }
 
             curr = curr->children[idx];
         }
 
-        // Prefix mila → isEnd check nahi
         return true;
     }
 };
+
+/**
+ * Your Trie object will be instantiated and called as such:
+ * Trie* obj = new Trie();
+ * obj->insert(word);
+ * bool param_2 = obj->search(word);
+ * bool param_3 = obj->startsWith(prefix);
+ */
