@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int gcd(int a, int b){
 
         while(b != 0){
@@ -9,21 +10,21 @@ public:
         }
         return a;
     }
+
     int findGCD(vector<int>& nums) {
         int n = nums.size();
 
-        int minVal = nums[0];
-        int maxVal = nums[0];
+        int max = nums[0];
+        int min = nums[0];
 
         for(int i = 0; i < n; i++){
-            if(nums[i] < minVal){
-                minVal = nums[i];
-            }
-            if(nums[i] > maxVal){
-                maxVal = nums[i];
+            if(nums[i] > max){
+                max = nums[i];
+            }else if(nums[i] < min){
+                min = nums[i];
             }
         }
 
-        return gcd(minVal, maxVal);
+        return gcd(min, max);
     }
 };
