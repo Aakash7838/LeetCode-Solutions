@@ -1,13 +1,13 @@
 class MyCircularQueue {
-    vector<int>arr;
+    vector<int>nums;
     int frontIdx;
     int backIdx;
     int size;
     int capacity;
-    
+
 public:
     MyCircularQueue(int k) {
-        arr.resize(k);
+        nums.resize(k);
         frontIdx = 0;
         backIdx = -1;
         size = 0;
@@ -20,7 +20,7 @@ public:
         }
 
         backIdx = (backIdx + 1) % capacity;
-        arr[backIdx] = value;
+        nums[backIdx] = value;
         size++;
         return true;
     }
@@ -30,9 +30,11 @@ public:
             return false;
         }
 
-        frontIdx = (frontIdx + 1)%capacity;
+        frontIdx = (frontIdx + 1) % capacity;
+       
         size--;
         return true;
+
     }
     
     int Front() {
@@ -40,23 +42,28 @@ public:
             return -1;
         }
 
-        return arr[frontIdx];
+        return nums[frontIdx];
     }
     
     int Rear() {
         if(isEmpty()){
             return -1;
         }
-
-        return arr[backIdx];
+        return nums[backIdx];
     }
     
     bool isEmpty() {
-        return size == 0;
+        if(size == 0){
+            return true;
+        }
+        return false;
     }
     
     bool isFull() {
-        return size == capacity;
+        if(capacity == size){
+            return true;
+        }
+        return false;
     }
 };
 
