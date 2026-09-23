@@ -24,6 +24,7 @@
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -368,6 +370,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Queue
 |  |
