@@ -1,34 +1,24 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int left  = 1;
-        int right = 0;
+        int left = 1;
+        int right = *max_element(piles.begin(), piles.end());
 
-        // right = max pile
-        for(int i = 0; i < (int)piles.size(); i++){
-            if(piles[i] > right) right = piles[i];
-        }
+        while(left <= right){
+            int mid = left + (right - left)/2;
+            long long hours = 0;
 
-        // binary search on answer
-        while(left < right){
-            int mid = left + (right-left)/2;
+            for(int pile : piles){
+                hours = hours + (pile + mid - 1)/mid;
+            }
 
-            if(canFinish(piles, mid, h)){
-                right = mid;      // aur kam speed try karo
-            } else {
-                left = mid + 1;   // zyada speed chahiye
+            if(hours <= h){
+                right = mid - 1;
+            }else{
+                left = mid + 1;
             }
         }
 
         return left;
-    }
-
-    bool canFinish(vector<int>& piles, int speed, int h){
-        int hours = 0;
-        for(int i = 0; i < (int)piles.size(); i++){
-            // ceil(pile/speed) bina STL
-            hours += (piles[i] + speed - 1) / speed;
-        }
-        return hours <= h;
     }
 };
