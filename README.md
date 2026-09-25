@@ -11,6 +11,7 @@
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Array
 |  |
@@ -59,6 +60,7 @@
 | [0875-koko-eating-bananas](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Two Pointers
 |  |
@@ -202,6 +204,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Divide and Conquer
 |  |
