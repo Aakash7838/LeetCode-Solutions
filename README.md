@@ -21,6 +21,7 @@
 | [0027-remove-element](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -384,6 +385,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -423,6 +425,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
