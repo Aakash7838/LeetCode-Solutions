@@ -199,6 +199,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
