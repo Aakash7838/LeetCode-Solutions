@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -397,6 +398,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Queue
@@ -439,4 +441,8 @@
 | [0134-gas-station](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
