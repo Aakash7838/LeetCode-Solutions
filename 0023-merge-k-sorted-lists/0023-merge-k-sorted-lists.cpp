@@ -10,36 +10,33 @@
  */
 class Solution {
 public:
+    struct Compare{
+        bool operator()(ListNode* a, ListNode* b){
+            return a->val > b->val;
+        }
+    };
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
+        priority_queue<ListNode*, vector<ListNode*>, Compare>pq;
 
-        // Min Heap: {value, node}
-        priority_queue<pair<int, ListNode*>,
-                       vector<pair<int, ListNode*>>,
-                       greater<pair<int, ListNode*>>> minPQ;
-
-        // Step 1: Har list ka pehla node
-        for(int i = 0; i < (int)lists.size(); i++){
-            if(lists[i] != nullptr){
-                minPQ.push({lists[i]->val, lists[i]});
+        for(ListNode* head : lists){
+            if(head != nullptr){
+                pq.push(head);
             }
         }
 
-        // Dummy node
         ListNode dummy(0);
         ListNode* curr = &dummy;
 
-        // Step 2: Merge
-        while(!minPQ.empty()){
-            auto [val, node] = minPQ.top();
-            minPQ.pop();
+        while(!pq.empty()){
+            ListNode* node = pq.top();
+            pq.pop();
 
-            // Result mein add karo
-            curr->next = node;
-            curr = curr->next;
+            curr -> next = node;
+            curr = curr -> next;
 
-            // Step 3: Agla node us list se
             if(node->next != nullptr){
-                minPQ.push({node->next->val, node->next});
+                pq.push(node->next);
             }
         }
 
