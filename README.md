@@ -316,6 +316,7 @@
 | [0207-course-schedule](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
@@ -338,6 +339,7 @@
 | [0200-number-of-islands](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
@@ -368,6 +370,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -417,6 +420,7 @@
 | [0133-clone-graph](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -475,4 +479,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
