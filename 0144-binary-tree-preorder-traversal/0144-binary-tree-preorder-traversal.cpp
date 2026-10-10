@@ -11,22 +11,19 @@
  */
 class Solution {
 public:
-
-    void bst(TreeNode* root, vector<int>& ans){
-        if(!root){
+    void findOutput(TreeNode* root, vector<int>& ans){
+        if(root == NULL){
             return;
         }
 
         ans.push_back(root -> val);
-
-        bst(root->left, ans);
-        bst(root->right, ans);
+        findOutput(root -> left, ans);
+        findOutput(root -> right, ans);
     }
-
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int>ans;
 
-        bst(root, ans);
+        findOutput(root, ans);
 
         return ans;
     }
