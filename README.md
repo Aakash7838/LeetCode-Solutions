@@ -491,4 +491,16 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
