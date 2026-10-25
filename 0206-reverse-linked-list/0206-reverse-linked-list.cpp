@@ -16,8 +16,8 @@ public:
         ListNode* temp = NULL;
 
         while(curr != NULL){
-            temp = curr->next;
-            curr->next = prev;
+            temp = curr -> next;
+            curr -> next = prev;
             prev = curr;
             curr = temp;
         }
