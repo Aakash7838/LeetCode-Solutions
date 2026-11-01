@@ -67,6 +67,7 @@
 | [0739-daily-temperatures](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -102,6 +103,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Aakash7838/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
