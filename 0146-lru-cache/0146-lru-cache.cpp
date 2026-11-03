@@ -1,82 +1,48 @@
 class LRUCache {
 public:
-    struct Node {
-        int key, val;
-        Node* next;
-        Node* prev;
-        Node(int k, int v): key(k), val(v), next(nullptr), prev(nullptr){}
-    };
 
-    int capacity;
-    unordered_map<int, Node*> mp;
-    Node* head;  // most recent
-    Node* tail;  // least recent
-
-    LRUCache(int cap){
-        capacity = cap;
-
-        // dummy head aur tail
-        head = new Node(0, 0);
-        tail = new Node(0, 0);
-        head->next = tail;
-        tail->prev = head;
+    vector<pair<int, int>> cache;
+    int n;
+    
+    LRUCache(int capacity) {
+        n = capacity;
     }
+    
+    int get(int key) {
+        for(int i = 0; i < cache.size(); i++){
+            if(cache[i].first == key){
+                int val = cache[i].second;
 
-    // Node ko front pe move karo
-    void moveToFront(Node* node){
-        // pehle remove karo
-        node->prev->next = node->next;
-        node->next->prev = node->prev;
+                pair<int,int>temp = cache[i];
+                cache.erase(cache.begin()+i);
+                cache.push_back(temp);
 
-        // head ke baad add karo
-        node->next = head->next;
-        node->prev = head;
-        head->next->prev = node;
-        head->next = node;
-    }
-
-    // Front pe add karo
-    void addToFront(Node* node){
-        node->next = head->next;
-        node->prev = head;
-        head->next->prev = node;
-        head->next = node;
-    }
-
-    // Tail se remove karo (LRU)
-    Node* removeTail(){
-        Node* lru = tail->prev;
-        lru->prev->next = tail;
-        tail->prev = lru->prev;
-        return lru;
-    }
-
-    int get(int key){
-        if(mp.find(key) == mp.end()) return -1;
-
-        Node* node = mp[key];
-        moveToFront(node);
-        return node->val;
-    }
-
-    void put(int key, int value){
-        // Already exist karta hai
-        if(mp.find(key) != mp.end()){
-            mp[key]->val = value;
-            moveToFront(mp[key]);
-            return;
+                return val;
+            }
         }
-
-        // Capacity full
-        if((int)mp.size() == capacity){
-            Node* lru = removeTail();
-            mp.erase(lru->key);
-            delete lru;
+        return -1;
+    }
+    
+    void put(int key, int value) {
+        for(int i = 0; i < cache.size(); i++){
+            if(cache[i].first == key){
+                cache.erase(cache.begin()+i);
+                cache.push_back({key, value});
+                return;
+            }
         }
-
-        // Naya node add karo
-        Node* newNode = new Node(key, value);
-        mp[key] = newNode;
-        addToFront(newNode);
+         if(cache.size() == n){
+                cache.erase(cache.begin());
+                cache.push_back({key, value});
+            }else{
+                cache.push_back({key, value});
+            }
     }
 };
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
