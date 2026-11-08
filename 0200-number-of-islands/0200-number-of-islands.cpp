@@ -1,34 +1,40 @@
 class Solution {
 public:
 
-    void dfs(int i, int j, vector<vector<bool>> &vis, vector<vector<char>>& grid, int n, int m){
-        if(i < 0 || j < 0 || i >= n || j >= m || vis[i][j] || grid[i][j] != '1'){
-            return;
-        }
-        vis[i][j] = true;
+    int n, m;
+    
+    int dr[4] = {-1, 1, 0, 0};
+    int dc[4] = {0, 0, -1, 1};
 
-        dfs(i-1, j, vis, grid, n, m); // top
-        dfs(i, j+1, vis, grid, n, m); // right
-        dfs(i+1, j, vis, grid, n, m); // bottom
-        dfs(i, j-1, vis, grid, n, m); // left
+    void dfs(int row, int col, vector<vector<char>>& grid){
+
+        grid[row][col] = '0';
+
+        for(int i = 0; i < 4; i++){
+            int nrow = row + dr[i];
+            int ncol = col + dc[i];
+
+            if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && grid[nrow][ncol] == '1'){
+                dfs(nrow, ncol, grid);
+            }
+        }
     }
 
     int numIslands(vector<vector<char>>& grid) {
-        int islands = 0; 
-        int n = grid.size();
-        int m = grid[0].size();
+        n = grid.size();
+        m = grid[0].size();
 
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        int count = 0;
 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
-                if(grid[i][j] == '1' && !vis[i][j]){
-                    dfs(i,j, vis, grid, n, m);
-                    islands++;
+                if(grid[i][j] == '1'){
+                    count++;
+
+                    dfs(i, j, grid);
                 }
             }
         }
-
-        return islands;
+        return count;
     }
 };
