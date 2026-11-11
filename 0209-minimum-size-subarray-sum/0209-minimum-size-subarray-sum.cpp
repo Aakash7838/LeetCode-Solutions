@@ -4,13 +4,13 @@ public:
         int n = nums.size();
         int left = 0;
         int windowSum = 0;
-        int minLen = n + 1;
+        int minLen = n+1;
 
-        for(int right = 0; right < n; right++){
-            windowSum += nums[right];
+        for(int i = 0; i < n; i++){
+            windowSum += nums[i];
 
             while(windowSum >= target){
-                int len = right - left + 1;
+                int len = i - left + 1;
                 minLen = min(minLen, len);
                 windowSum -= nums[left];
                 left++;
@@ -18,6 +18,5 @@ public:
         }
 
         return minLen == n+1 ? 0 : minLen;
-
     }
 };
