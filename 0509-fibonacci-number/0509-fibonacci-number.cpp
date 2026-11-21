@@ -1,20 +1,21 @@
 class Solution {
 public:
-    int fib(int n, vector<int>& m){
+
+    int fib(int n) {
+
         if(n <= 1){
             return n;
         }
+        int first = 0;
+        int second = 1;
+        int result = 0;
 
-        if(m[n] == -1){
-            m[n] = fib(n-1)+ fib(n-2);
+        for(int i = 2; i <= n; i++){
+            result = first + second;
+            first = second;
+            second = result;
         }
 
-        return m[n];
-
-    }
-    int fib(int n) {
-        vector<int>m(n+1, -1);
-
-        return fib(n, m);
+        return result;
     }
 };
